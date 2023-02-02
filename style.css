@@ -1,0 +1,24 @@
+
+ol.main{
+    list-style-type:upper-roman;
+}
+ol.sub{
+    list-style-type:upper-alpha;
+}
+li.midsize{
+    background-color:  rgb(251, 158, 174);
+}
+.sports{
+    background-color: rgb(251, 119, 141);
+}
+ol.sub2{
+    list-style-type:upper-alpha;
+    background-color:  rgb(251, 158, 174);
+}
+div.compact{
+    background-color: pink;
+}
+.sub3{
+    list-style-type:upper-alpha;
+    background-color:rgb(251, 119, 141);
+}
